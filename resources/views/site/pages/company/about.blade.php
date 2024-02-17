@@ -31,12 +31,13 @@
         <div class="col-lg-6">
           <h3 class="column-title">About Us</h3>
           <p style="text-align: justify">
-            PMP Hub is headquartered in Dar es Salaam to facilitate contact and communication with government
-            departments,NGOs, and companies.Our offices are located at the intersection of
-            the Mwai Kibaki Road and Warioba Street in MikocheniB area of Kinondoni.
-            <br>
-            Soon,PMP Hub envisages gradual expansion of its operations to upcountry regions by setting
-            upcoordination centers in each of the administrative zones.
+            Empowering Progress, One Solution at a Time
+            <br>  
+          For 5 years, Mtuta Investment has been the trusted partner for individuals and organizations across Tanzania and beyond, 
+          offering a diverse range of solutions to drive success. 
+          From seamless transportation and clearing & forwarding services to expert tax consultancy and essential stationery services,
+           we are committed to helping our clients navigate the complexities of their daily operations and achieve their goals.
+
           </p>
 
         </div><!-- Col end -->
