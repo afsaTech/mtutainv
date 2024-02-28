@@ -70,7 +70,7 @@ class AchievementController extends Controller
 
             if ($extension != null) {
                 $filename = date("Y_m_d_h_i") . '_' . rand(0, 200) . '.' . $extension;
-                $path = $image->storeAs('pmphub-achievement', $filename, 'pmphub-achievement');
+                $path = $image->storeAs('achievement', $filename, 'achievement');
 
                 $ach = new Achievement();
                 $ach->title = $request->get('title');
@@ -149,7 +149,7 @@ class AchievementController extends Controller
 
             if ($extension != null) {
                 $filename = date("Y_m_d_h_i") . '_' . rand(0, 200) . '.' . $extension;
-                $path = $newImage->storeAs('pmphub-achievement', $filename, 'pmphub-achievement');
+                $path = $newImage->storeAs('achievement', $filename, 'achievement');
 
                 $update_ach = $achievement->update([
                     'title' => $request->get('title'),

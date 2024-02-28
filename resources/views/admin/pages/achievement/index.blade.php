@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h2>List Of All Achievements</h2>
-				<h5><b>Note:</b> For achievements with 'active' status they have been published on <a href="http://pmphub.org" target="_blank">http://pmphub.org</a>
+				<h5><b>Note:</b> For achievements with 'active' status they have been published on <a href="https://mtutainvestment.co.tz" target="_blank">mtutainvestment.co.tz</a>
 				<a href="{{ route('achievement.index') }}" class="btn btn-default" style="float: right; margin:0 4px 0 4px">Cancel</a>
 				@can('achievement-create')
 					<a href="{{ route('achievement.create') }}" class="btn btn-primary" style="float: right; margin:0 4px 0 4px">New</a>

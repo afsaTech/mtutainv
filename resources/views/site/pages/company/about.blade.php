@@ -31,12 +31,11 @@
         <div class="col-lg-6">
           <h3 class="column-title">About Us</h3>
           <p style="text-align: justify">
-            Empowering Progress, One Solution at a Time
-            <br>  
-          For 5 years, Mtuta Investment has been the trusted partner for individuals and organizations across Tanzania and beyond, 
+          Empowering Progress, One Solution at a time for five years, 
+          Mtuta Investment has been the trusted partner for individuals and organizations across Tanzania and beyond, 
           offering a diverse range of solutions to drive success. 
           From seamless transportation and clearing & forwarding services to expert tax consultancy and essential stationery services,
-           we are committed to helping our clients navigate the complexities of their daily operations and achieve their goals.
+          we are committed to helping our clients navigate the complexities of their daily operations and achieve their goals.
 
           </p>
 

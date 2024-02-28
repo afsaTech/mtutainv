@@ -81,8 +81,7 @@
               <h3 class="into-sub-title">We save</h3>
               <!-- Background paragraps begains here-->
               <p style="text-align: justify">
-                Empowering Progress, One Solution at a Time
-                For 5 years, Mtuta Investment has been the trusted partner for individuals and organizations across Tanzania and beyond, 
+                Empowering Progress, One Solution at a time for five years, Mtuta Investment has been the trusted partner for individuals and organizations across Tanzania and beyond, 
                 offering a diverse range of solutions to drive success. From seamless transportation and clearing & forwarding services to expert tax consultancy and essential stationery services,
                 we are committed to helping our clients navigate the complexities of their daily operations and achieve their goals.
                 
@@ -109,13 +108,9 @@
                     <div class="card-body">
 
                     <p style="text-align: justify">
-                      <ul>
-                        <li>To be the leading provider of integrated business solutions in Tanzania and beyond,
-                            recognized for excellence, reliability, and innovation.</li>
-                        <li> To become the trusted partner for individuals and businesses,
-                           navigating their journeys with expertise and efficiency.</li>
-                  
-                  </p>
+                        To be the leading provider of integrated business solutions in Tanzania and beyond,
+                        recognized for excellence, reliability, and innovation.
+                    </p>
                     </div>
                 </div>
               </div>
@@ -131,11 +126,8 @@
                     <div class="card-body">
                     <p style="text-align: justify">
                       <ul>
-                        <li>Empowering individuals and businesses through seamless logistics,
-                           financial expertise, essential supplies, and efficient trade pathways.</li>
-                        <li>Connecting people and possibilities by providing integrated transportation,
-                           tax consultancy, stationary, and clearing & forwarding solutions.</li>
-                  
+                        Empowering individuals and businesses through seamless logistics,
+                        financial expertise, essential supplies, and efficient trade pathways.
                     </p>
                     </div>
                 </div>

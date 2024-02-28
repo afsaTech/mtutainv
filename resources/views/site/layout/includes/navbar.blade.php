@@ -11,17 +11,14 @@
               {{-- <li><a href="{{ route('company.management') }}">Management</a></li> --}}
             </ul>
           </li>
-          {{-- <li class="nav-item dropdown {{(request()->routeIs('expartise*')) ? 'active' : ''}}"> <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Exparties <i class="fa fa-angle-down"></i></a>
+          <li class="nav-item dropdown {{(request()->routeIs('services*')) ? 'active' : ''}}"> <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services<i class="fa fa-angle-down"></i></a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="{{ route('expartise.research') }}">Research and Evaluation</a></li>
-              <li><a href="{{ route('expartise.project_mgt') }}">Project Management</a></li>
-              <li><a href="{{ route('expartise.monitoring') }}">Monitoring and Evaluation Systems</a></li>
-              <li><a href="{{ route('expartise.dbms') }}">Database Management System</a></li>
-              <li><a href="{{ route('expartise.agency') }}">Data collection Agency</a></li>
-              <li><a href="{{ route('expartise.capacity_building') }}">M&E Training</a></li>
-              <li><a href="{{ route('expartise.future_projects') }}">Grants Application</a></li>
+              <li><a href="{{ route('services.transportation') }}">Transportation</a></li>
+              <li><a href="{{ route('services.tax') }}">Tax Consultancy</a></li>
+              <li><a href="{{ route('services.stationary') }}">Stationary</a></li>
+              <li><a href="{{ route('services.candf') }}">Clearing and Forwading</a></li>
             </ul>
-          </li> --}}
+          </li>
           <li class="nav-item {{(request()->routeIs('performance*')) ? 'active' : ''}}"> <a href="{{ route('performance.achievs') }}" class="nav-link" >Current and Past Performance </a>
           <li class="nav-item {{(request()->routeIs('message*')) ? 'active' : ''}}"><a class="nav-link" href="{{ route('message.create')}}">Contact</a></li>
         </ul>
